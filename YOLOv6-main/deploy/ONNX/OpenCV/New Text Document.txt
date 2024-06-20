@@ -1,0 +1,1 @@
+python yolo.py --model yolov6n.onnx --img image1.jpg --classesFile coco.names

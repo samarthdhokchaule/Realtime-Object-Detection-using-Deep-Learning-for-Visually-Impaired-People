@@ -1,0 +1,9 @@
+1) Open powershell window here
+
+2) cd .\YOLOv6-main\
+
+3) pip install -r ./requirements.txt
+
+4) cd deploy\ONNX\OpenCV
+
+5) Run python yolo_video.py
